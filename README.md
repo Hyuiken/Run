@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Run'IT
+The Run'IT app
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Workouts
+* Fitness
+* Step Tracker
+* Workout Schedule
 
 # Course Overview
 * Basic React Native Components
