@@ -19,13 +19,13 @@ The Run'IT app
 * HTML, CSS and JS
 
 # Home Screen
-<img src="assets/images/HomeMain.png">  
+<img src="assets/images/HomeMain.jpg">  
 
 # Sign Up Screen
-<img src="assets/images/SignUpScreen.png">  
+<img src="assets/images/SignUpScreen.jpg">  
 
 # Sign In Screen
-<img src="assets/images/LoginScreen.png">  
+<img src="assets/images/LoginScreen.jpg">  
 
 # Tabs Screen
-<img src="assets/images/TabScreen.png">  
+<img src="assets/images/TabScreen.jpg">  
