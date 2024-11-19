@@ -7,7 +7,7 @@ The Run'IT app
 * Step Tracker
 * Workout Schedule
 
-# Course Overview
+# Overview
 * Basic React Native Components
 * Database Design using Appwrite
 * User Registration & Authenticaiton
